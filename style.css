@@ -1,4 +1,8 @@
+body {
+	background: url("Site_Background.png");
+}
+
 p {
-	color: red;
+	color: blue;
 	text-align: center;
 }
