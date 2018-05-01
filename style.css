@@ -105,6 +105,7 @@ body {
 
 li img, iframe {
 	display: block;
+	z-index: -1;
 }
 
 
